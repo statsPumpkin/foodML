@@ -5,7 +5,7 @@ This repository supports the manuscript:
 **Shinn, L. M., Li, Y., et al. (2021)**  
 *Fecal Bacteria as Biomarkers for Predicting Food Intake in Healthy Adults*  
 **The Journal of Nutrition, 151(2), 423–433**  
-[https://doi.org/10.1093/jn/nxaa393](https://doi.org/10.1093/jn/nxaa393)
+https://jn.nutrition.org/article/S0022-3166(22)00038-4/fulltext
 
 ---
 
