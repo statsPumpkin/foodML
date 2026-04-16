@@ -43,10 +43,3 @@ https://jn.nutrition.org/article/S0022-3166(22)00038-4/fulltext
 - Test the model on both treatment and control sets  
 
 ---
-
-## 📬 Contact
-
-For questions or collaborations, please contact:
-
-**Yutong Li, Ph.D.**  
-📧 [yutongli92@gmail.com](mailto:yutongli92@gmail.com)
